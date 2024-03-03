@@ -1,0 +1,19 @@
+周一
+1. 测试 rerank 效果
+    1. 历史问题
+        1.  text2vec 拒答能力
+        2. 检索能力
+        3. 
+2. graph index
+3. dou web
+
+周二
+1. 开发接口
+    1. 支持的文件格式
+    2. 所有消息类型
+
+
+周三、周四开发
+1. 看看 langchain-chatchat / llama-index
+2. 接口用 file base
+3. 检索最后加载文件
